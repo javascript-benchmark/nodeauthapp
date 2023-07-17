@@ -14,7 +14,7 @@
     "cors": "*",
     "express": "*",
     "jsonwebtoken": "*",
-    "mongoose": "*",
+    "mongoose": "5.13.20",
     "passport": "*",
     "passport-jwt": "*"
   },
