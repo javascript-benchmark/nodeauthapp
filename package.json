@@ -12,7 +12,7 @@
     "bluebird": "*",
     "body-parser": "*",
     "cors": "*",
-    "express": "*",
+    "express": "4.19.2",
     "jsonwebtoken": "*",
     "mongoose": "*",
     "passport": "*",
