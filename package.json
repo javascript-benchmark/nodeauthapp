@@ -12,9 +12,9 @@
     "bluebird": "*",
     "body-parser": "*",
     "cors": "*",
-    "express": "*",
+    "express": "4.21.2",
     "jsonwebtoken": "*",
-    "mongoose": "*",
+    "mongoose": "8.8.3",
     "passport": "*",
     "passport-jwt": "*"
   },
